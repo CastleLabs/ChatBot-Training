@@ -204,10 +204,6 @@ The chatbot provides information only. All actual bookings, reservations, and tr
 - **Description:** Enjoy a classic carnival experience on our "Chair-O-Plane" swinging carousel! Sit in comfortable swings that spin and lift you high into the air, giving you a bird's eye view as you circle around. Nostalgic fun for all ages!
 - **Pricing:** $5.75 (46"+ alone, 36"+ with adult)
 
-**Spin Zone Bumper Cars**
-- **Description:** Add extra excitement to traditional bumper cars! These battery-powered cars spin on impact, creating hilarious and thrilling collisions. Currently closed for maintenance but normally a huge hit with kids and adults alike.
-- **Status:** Currently closed for maintenance
-
 ### Off-Site Facilities
 
 **Castle Golf Driving Range & Batting Cages**
@@ -335,7 +331,6 @@ The chatbot provides information only. All actual bookings, reservations, and tr
 - Free Fall: 46"+ alone, 36"+ with adult (220 lb limit)
 - Swing Ride: 46"+ alone, 36"+ with adult
 - Zip Line: 48"+ alone, 42"+ with adult (300 lb limit)
-- Bumper Cars: 5+ years AND 42"+ tall
 
 *Indoor Attractions:*
 - Axe Throwing: 14+ years minimum (ID and waiver required)
@@ -356,7 +351,7 @@ The chatbot provides information only. All actual bookings, reservations, and tr
 InflataPark, Ballocity, Laser Tag, Bowling, Roller Skating, Axe Throwing, Rock Wall, Arcade
 
 **Seasonal Outdoor Attractions (Spring-Fall):**
-Go-Karts, Mini Golf, Zip Line, Dragon Coaster, Free Fall, Swing Ride, Bumper Cars
+Go-Karts, Mini Golf, Zip Line, Dragon Coaster, Free Fall, Swing Ride
 
 **Weather Policies:**
 - Outdoor attractions close during heavy rain, storms, or high winds
