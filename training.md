@@ -460,4 +460,4 @@ Always provide current pricing but add: "Prices are subject to change. For the m
 - Cash and credit cards accepted for loading
 - 3.5% fee on credit card transactions
 
-This knowledge base provides comprehensive information for AI chatbot responses while clearly establishing limitations and proper escalation procedures for transactions and complex requests that require human staff assistance.
+
