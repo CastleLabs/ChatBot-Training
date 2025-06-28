@@ -267,12 +267,15 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 
 ### 11.2 Activity-Specific Package Options
 
-| Package Type | Base Price (8 kids) | Additional Kids | Activity Details | Arcade Points |
-|--------------|---------------------|-----------------|------------------|---------------|
-| **InflataPark Premium** | $399 | $29.99 each | 1 full hour in InflataPark + InflataSocks included | 500 points each |
-| **Ballocity Battle** | $349 | $26.99 each | 45 minutes of foam ball warfare | 1,000 points each |
-| **Laser Tag Combat** | $349 | $26.99 each | Two 10-minute games (30 minutes total) | 1,000 points each |
-| **Mini Golf Quest** | $349 | $26.99 each | Complete 18-hole course (seasonal availability) | 1,000 points each |
+| Package Type                       | Base Price (8 kids) | Additional Kids | Activity Details                                                       | Arcade Points       |
+|------------------------------------|---------------------|-----------------|-------------------------------------------------------------------------|---------------------|
+| **InflataPark Premium**            | $399                | $29.99 each     | 1 full hour in InflataPark + InflataSocks included                     | 500 points each     |
+| **Ballocity Battle**               | $349                | $26.99 each     | 45 minutes of foam ball warfare                                         | 1,000 points each   |
+| **Laser Tag Combat**               | $349                | $26.99 each     | Two 10-minute games (30 minutes total)                                  | 1,000 points each   |
+| **Mini Golf Quest**                | $349                | $26.99 each     | Complete 18-hole course (seasonal availability)                         | 1,000 points each   |
+| **Bowling Birthday Party**         | $399                | $29.99 each     | 1 hour of bowling + shoe rental                                         | 1,000 points each   |
+| **Roller Skating Birthday Party**  | $349                | $26.99 each     | 45 minutes of roller skating (skates or blades rental; own skates/blades allowed) | 1,000 points each   |
+
 
 **Special Option - All-Access Party (Teen/Adult Focused):**  
 - **Structure:** 1-hour reserved table at Jesters Restaurant + 2 hours unlimited facility access  
