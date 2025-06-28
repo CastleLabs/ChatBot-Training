@@ -20,8 +20,8 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 |-----------|----------------|-------|
 | **Season** | Summer | Summer = all attractions, extended hours |
 | | **Special Events** | Adult Night | July 18, 2025  |
-| **Facility Status** | All Operations | Note any temporary closures (e.g., "Rock Wall closed for maintenance") |
-| **Outdoor Attractions** | Only one Go-kart track | "While we are building our new 3 story Go-Kart Track, only one track is currently available. |
+| **Facility Status** | All Operations | Only one go kart track is available while the new 3 story track is under construction. |
+| **Outdoor Attractions** | Only one Go-kart track | While we are building our new 3 story Go-Kart Track, only one track is currently available. |
 | **Current Promotions** | Standard Pricing | List any active discounts or special offers |
 | **Last Updated** | 6/28/25 | add notes if needed |
 
