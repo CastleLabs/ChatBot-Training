@@ -332,7 +332,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 ## 13. Food Service – Jesters Restaurant & Pub: Full-Service Dining
 
 **Prime Location & Atmosphere:**  
-- **Level:** Upper floor with views of bowling lanes  
+- **Level:** Lower Level with views of bowling lanes  
 - **Connection:** Direct access to bowling alley and axe throwing lanes  
 - **Ambiance:** Family-friendly main dining room + separate 21+ bar area  
 - **Capacity:** Accommodates large groups and intimate gatherings
