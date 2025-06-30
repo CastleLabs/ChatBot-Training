@@ -120,7 +120,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 
 **The Castle Fun Center** - Orange County's Premier Family Entertainment Destination  
 - **Address:** 109 Brookside Avenue, Chester, NY 10918  
-- **Size:** 50,000+ sq ft indoor • 11 acres seasonal outdoor  
+- **Size:** 75,000+ sq ft indoor • 11 acres seasonal outdoor  
 - **Phone:** (845) 469-2116  
 - **Events Coordinator (Debbie Wielhouwer):** extension 7000  
 - **Email:** thecastle@thecastlefuncenter.com  
@@ -636,7 +636,7 @@ Go-Kart Racing (all 3 tracks), Mini Golf (both courses), Zip Line, Dragon Coaste
 ## 22. Competitive Advantages & Unique Features
 
 ### 22.1 Facility Distinctions
-**Size & Scale:** 50,000+ sq ft indoor + 11 acres outdoor (largest in region)  
+**Size & Scale:** 75,000+ sq ft indoor + 11 acres outdoor (largest in region)  
 **Attraction Variety:** 13+ major attractions spanning all age groups  
 **Year-Round Operation:** Weather-independent indoor entertainment  
 **No Admission Fee:** Pay-only-for-what-you-use model saves money for selective families
