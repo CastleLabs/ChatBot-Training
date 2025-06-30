@@ -129,7 +129,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 **Strategic Location Benefits:**  
 - Free parking (cars & buses) • Fully wheelchair accessible  
 - 10 minutes from Woodbury Commons Premium Outlets  
-- 1 mile from LEGOLAND New York  
+- 2 miles from LEGOLAND New York  
 - Easy highway access: NY-17 (exit 126)  
 - Perfect for combining with other Hudson Valley attractions
 
