@@ -133,6 +133,63 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 - Easy highway access: NY-17 (exit 126)  
 - Perfect for combining with other Hudson Valley attractions
 
+6.1 Website Topic URL Map
+For targeted chatbot responses, here’s a map of all publicly available topics and their URLs:
+
+Topic	URL
+Arcade	https://thecastlefuncenter.com/attractions/arcade/
+Axe Throwing	https://thecastlefuncenter.com/attractions/axe-throwing/
+Ballocity	https://thecastlefuncenter.com/attractions/ballocity/
+Bowling (Jester’s Lanes)	https://thecastlefuncenter.com/attractions/bowling/
+InflataPark	https://thecastlefuncenter.com/attractions/inflatapark/
+Laser Tag	https://thecastlefuncenter.com/attractions/laser-tag/
+Rock Wall (Climbing Wall)	https://thecastlefuncenter.com/attractions/rock-wall/
+Roller Skating	https://thecastlefuncenter.com/attractions/roller-skating/
+Dragon Coaster	https://thecastlefuncenter.com/attractions/dragon-coaster/
+Driving Range & Batting Cages	https://thecastlefuncenter.com/attractions/castle-driving-range-batting-cages/
+Free Fall	https://thecastlefuncenter.com/attractions/free-fall/
+Go Karts	https://thecastlefuncenter.com/attractions/go-karts/
+Mini Golf	https://thecastlefuncenter.com/attractions/mini-golf/
+Spin Zone Bumper Cars	https://thecastlefuncenter.com/attractions/spin-zone-bumper-cars/
+Swing Ride	https://thecastlefuncenter.com/attractions/swing-ride/
+Zip Line	https://thecastlefuncenter.com/attractions/zip-line/
+Attraction Pricing & Information	https://thecastlefuncenter.com/attraction-pricing-information/
+Buy Castle Cards	https://thecastlefuncenter.com/attraction-pricing-information/buy-castle-cards/
+Check Castle Card Balance	https://thecastlefuncenter.com/attraction-pricing-information/check-your-castle-card-balance/
+Castle Card Information	https://thecastlefuncenter.com/attraction-pricing-information/castle-card-information/
+Attraction Discounts	https://thecastlefuncenter.com/attraction-pricing-information/attraction-discounts/
+VIP Rewards Program	https://thecastlefuncenter.com/vip-rewards/
+Birthday Party Packages	https://thecastlefuncenter.com/birthday-party-packages/
+Kids InflataPark Birthday Party	https://thecastlefuncenter.com/kids-inflatapark-birthday-party/
+Kids Ballocity Birthday Party	https://thecastlefuncenter.com/kids-ballocity-birthday-party/
+Kids Bowling Birthday Party	https://thecastlefuncenter.com/kids-bowling-birthday-party/
+Kids Laser Tag Birthday Party	https://thecastlefuncenter.com/kids-laser-tag-birthday-party/
+Kids Mini Golf Birthday Party	https://thecastlefuncenter.com/kids-mini-golf-birthday-party/
+Kids Roller Skating Birthday Party	https://thecastlefuncenter.com/kids-roller-skating-birthday-party/
+Teen & Adult All Access Party	https://thecastlefuncenter.com/parties/birthday-parties-all-access-party/
+Special Event & Corporate Parties	https://thecastlefuncenter.com/parties/special-event-corporate-private-party-options/
+Birthday Party Add-Ons	https://thecastlefuncenter.com/parties/birthday-party-add-ons/
+Party Invitations	https://thecastlefuncenter.com/parties/party-invitations/
+Schools (Groups Overview)	https://thecastlefuncenter.com/schools-camps-non-profit-groups/
+School Trips	https://thecastlefuncenter.com/schools-camps-non-profit-groups/school-trips/
+Project Graduation	https://thecastlefuncenter.com/schools-camps-non-profit-groups/project-graduation/
+School Fundraisers	https://thecastlefuncenter.com/schools-camps-non-profit-groups/school-fundraisers/
+Group Rates & Info (Camps/Non-Profits)	https://thecastlefuncenter.com/schools-camps-non-profit-groups/group-information/
+Group Rules	https://thecastlefuncenter.com/group-rules/
+Park Hours	https://thecastlefuncenter.com/park-information/park-hours/
+Directions	https://thecastlefuncenter.com/park-information/directions/
+Facility Cleaning Procedures	https://thecastlefuncenter.com/park-information/castle-fun-center-park-cleaning-procedures/
+FAQs	https://thecastlefuncenter.com/park-information/faqs/
+Testimonials	https://thecastlefuncenter.com/park-information/testimonials/
+Advertising	https://thecastlefuncenter.com/park-information/advertising/
+Employment	https://thecastlefuncenter.com/park-information/employment/
+Fundraising	https://thecastlefuncenter.com/park-information/fundraising/
+Friends & Partner Links	https://thecastlefuncenter.com/park-information/friends-partners/
+Event Calendar	https://thecastlefuncenter.com/park-information/event-calendar/
+Donation Requests	https://thecastlefuncenter.com/donation-requests/
+Photo Gallery	https://thecastlefuncenter.com/galleries/photo-gallery/
+Video Gallery	https://thecastlefuncenter.com/galleries/video-gallery/
+Contact Us	https://thecastlefuncenter.com/contact-us/
 ---
 
 ## 7. Current Operating Hours
