@@ -267,7 +267,7 @@ For targeted chatbot responses, here’s a map of all publicly available topics 
 **No Admission Fee Philosophy:** Pay only for activities you choose on rechargeable Castle Cards.
 
 **Castle Card System Details:**  
-- **Initial Investment:** $2 one-time card cost plus amount of credit desired. (reusable forever)  
+- **Initial Investment:** $2 one-time card cost plus amount of credit desired. Each point is worth 1 cent, so 1000 points would be $10. (reusable forever)  
 - **Loading Options:** Any dollar amount at self-service kiosks or front desk  
 - **Universal Usage:** All attractions, arcade games, and food purchases  
 - **Smart Features:** Never expires, unused balances retain full value  
