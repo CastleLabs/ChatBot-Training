@@ -361,11 +361,11 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 
 | Track Type               | Age Req | Height Req | Notes                       |
 |--------------------------|---------|------------|-----------------------------|
-| Mini Indy                | 5+      | ≥42"       | Helmets provided            |
-| Road Course Single       | None    | ≥54"       | Helmets provided            |
-| Road Course Double       | Driver 18+| Driver 18+; Passenger ≥40"| Adult drives; helmets |
-| Slick Track              | 14+     | ≥60"       | Closed-toe shoes required   |
-
+| Mini Indy                | 5+      | ≥42"       |     Currently closed.      |
+| Road Course Single       | None    | ≥54"       |  Closed-toe shoes required         |
+| Road Course Double       | Driver 18+| Driver 18+; Passenger ≥40"| Adult drives;  |
+| Slick Track              | 14+     | ≥60"       | Currently Closed.    |
+| 3 story track           | 14+     | ≥60"       | Currently Under construction    |
 ### 14.2 Ride Safety
 
 | Attraction      | Solo Req  | With Adult Option | Weight Limit | Equipment         |
