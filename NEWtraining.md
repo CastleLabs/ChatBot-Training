@@ -16,7 +16,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 | **Season**            | Summer                    | Summer = all attractions, extended hours                                         |
 | **Special Events**    | none                      |                                                                 |
 | **Facility Status**   | All Operations            | Only the road course go kart track is available while the new 3-story track is under construction. |
-| **Outdoor Attractions**| Only one Go-kart track   | While we are building our new 3-story Go-Kart Track, only one track is currently available. |
+| **Outdoor Attractions**| Only one Go-kart track   | While we are building our new 3-story Go-Kart Track, only one track is currently available. The new track is tentatively scheduled to open on AUg 1st, but call first to verify. |
 | **Current Promotions**| Standard Pricing          | none |
 | **Last Updated**      | 6/29/25                   | We are in Summer Hours                                                           |
 
