@@ -15,8 +15,8 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 |-----------------------|---------------------------|----------------------------------------------------------------------------------|
 | **Season**            | Summer                    | Summer = all attractions, extended hours                                         |
 | **Special Events**    | none                      |                                                                 |
-| **Facility Status**   | All Operations            | Only the road course go kart track is available while the new 3-story track is under construction. |
-| **Outdoor Attractions**| Only one Go-kart track   | While we are building our new 3-story Go-Kart Track, only one track is currently available. The new track is tentatively scheduled to open on AUg 1st, but call first to verify. |
+| **Facility Status**   | All Operations            | New Elevated Road Course 3-story track is now open!  |
+| **Outdoor Attractions**| All Operations  | New Elevated Road Course 3-story track is now open! |
 | **Current Promotions**| Standard Pricing          | none |
 | **Last Updated**      | 6/29/25                   | We are in Summer Hours                                                           |
 
@@ -264,9 +264,9 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 ### 9.2 Seasonal Outdoor Attractions
 
 **Go-Kart Racing**  
-- **Mini Indy:** Ages 5+ & ≥42" – $7.50/ride (figure-8)  
-- **Road Course:** Single ≥54" – $8.50; Double (driver 18+ & ID; passenger ≥40") – $9.75  
-- **Slick Track:** Ages 14+ & ≥60" – $9.50 (drift track)  
+- **Mini Indy:** Ages 5+ & ≥42" – $8.50/ride (figure-8)  
+- **Elevated Road Course:** Single ≥54" – $10.75; Double (driver 18+ & ID; passenger ≥40") – $12.75  
+- **Slick Track:** Ages 14+ & ≥60" – $9.75 (drift track)  
 
 **Mini Golf**  
 - Two 18-hole courses (Blue & Green) – Ages ≤7 & seniors $8; ages 8+ $11; ~45 min; last tee 45 min before close  
