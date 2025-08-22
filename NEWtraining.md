@@ -14,8 +14,8 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 | Parameter             | Current Status            | Notes                                                                            |
 |-----------------------|---------------------------|----------------------------------------------------------------------------------|
 | **Season**            | Summer                    | Summer = all attractions, extended hours                                         |
-| **Special Events**    | none                      |                                                                 |
-| **Facility Status**   | All Operations            | New Elevated Road Course 3-story track is now open!  |
+| **Special Events**    | TWO EVENTS UPCOMING!!     | AUG 29 2025, 7pm - 10pm NEON SKATE -                                                                |
+| **Facility Status**   | All Operations            | New Elevated Road Course 3-story track is now open! $15 Session, $5 skate rentals are free if you donate school supplies. Then on Sept 26 2025, We have our next ADULT NIGHT!! $54.99 in advance, $64.99 day of event. It includes buffet from 9:00 to 10:30  includes axe throwing, spiral go karts, skating, bowling, free fall, lzer tag, and zip line. With a DJ playing music throughout teh the event.  |
 | **Outdoor Attractions**| All Operations  | New Elevated Road Course 3-story track is now open! |
 | **Current Promotions**| Standard Pricing          | none |
 | **Last Updated**      | 6/29/25                   | We are in Summer Hours                                                           |
