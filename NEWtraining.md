@@ -191,7 +191,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 
 ## 7. Current Operating Hours
 
-**Current Schedule (Summer):**
+**Summer Schedule:**
 
 | Day                   | Hours        | Notes                                                          |
 |-----------------------|--------------|----------------------------------------------------------------|
@@ -212,7 +212,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 | Saturday               | 11 AM–11 PM| Weekend extended hours     |
 | Sunday                 | 11 AM–8 PM | Weekend hours              |
 
-**Fall/Winter Schedule:**
+**Fall/Winter Schedule: CURRENT SCHEDULE**
 
 | Day               | Hours    | Notes                      |
 |-------------------|----------|----------------------------|
