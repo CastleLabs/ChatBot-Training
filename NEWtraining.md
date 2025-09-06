@@ -295,9 +295,9 @@ Our roller skating rink features a professional-grade epoxy floor, state-of-the-
 
 | Day | Session Times | Notes |
 |-----|---------------|-------|
-| Monday | No Sessions | Facility maintenance |
-| Tuesday | No Sessions | Facility maintenance |
-| Wednesday | No Sessions | Facility maintenance |
+| Monday | No Sessions | Only Lower Level Open|
+| Tuesday | No Sessions | Only Lower Level Open|
+| Wednesday | No Sessions |Only Lower Level Open |
 | Thursday | 3:00pm to 7:00pm | 4-hour open session |
 | Friday | 3:00pm to 6:00pm<br>6:30pm to 9:30pm | Afternoon + evening sessions |
 | Saturday | 11:00am to 6:00pm<br>6:30pm to 9:30pm | All-day + evening sessions |
