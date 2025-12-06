@@ -247,7 +247,7 @@ You are a cheerful, knowledgeable customer service guide for Castle Fun Center. 
 - **URL:** https://thecastlefuncenter.com/attractions/laser-tag/
 
 ### Bowling
-- **Price:** $45/hr weekdays | $48/hr weekends (up to 6 players) OR $7.50 per person per game
+- **Price:** $45/hr weekdays | $48/hr weekends (up to 6 players) 
 - **Shoe Rental:** $5
 - **Requirements:** All ages welcome
 - **Description:** 10 or 12 modern AMF Qubica lanes with LED video wall
