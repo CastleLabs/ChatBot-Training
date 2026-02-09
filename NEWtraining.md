@@ -178,7 +178,7 @@
 - **Axe Throwing:** https://thecastlefuncenter.com/attractions/axe-throwing/
 - **Rock Wall:** https://thecastlefuncenter.com/attractions/rock-wall/
 - **Arcade:** https://thecastlefuncenter.com/attractions/arcade/
-- **Pool Tables:** Located in Jester's Pub area
+- **Pool Tables:** Located in Billiards area behind Jester's Pub area
 
 ### Seasonal Outdoor Attractions:
 - **Go Karts:** https://thecastlefuncenter.com/attractions/go-karts/
@@ -310,7 +310,7 @@
 - **URL:** https://thecastlefuncenter.com/attractions/arcade/
 
 ### Pool Tables
-- **Location:** Jester's Pub area
+- **Location:** Billiards room behind Jester's Pub area
 - **Availability:** Available during Jester's Pub operating hours (Thursday-Sunday in fall/winter)
 - **Price:** Contact facility for current rates at (845) 469-2116
 - **Requirements:** All ages welcome in main dining area; 21+ in bar section
@@ -489,7 +489,7 @@
 - **Seating:** Family-friendly main dining + separate 21+ bar area
 - **Connection:** Direct access to bowling alley
 - **Quality:** Restaurant-quality food, not typical "fun center" fare
-- **Features:** Pool tables available in pub area
+- **Features:** Pool tables available in billiards area behind pub
 
 ### Operating Hours:
 - **Summer:** 7 days/week matching facility hours
